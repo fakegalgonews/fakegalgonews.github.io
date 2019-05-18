@@ -1,2 +1,2 @@
 # fakegalgonews.github.io
-https://fakegalgonews.net
+https://fakegalgonews.net mola
