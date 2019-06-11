@@ -6473,7 +6473,7 @@ button.bg-purple:focus {
 }
 
 .bg-pink {
-  background-color: #ff88e6 !important;
+  background-color: #FF33CC !important;
 }
 
 a.bg-pink:hover, a.bg-pink:focus,
@@ -12857,7 +12857,7 @@ a:hover {
 }
 
 .navbar-expand-lg.navbar-white .navbar-nav .dropdown.bg-pink .nav-link.active span {
-  color: #ea77ad;
+  color: #FF33CC;
 }
 
 .navbar-expand-lg.navbar-white .navbar-nav .dropdown.bg-purple .nav-link.active span {
@@ -13207,7 +13207,7 @@ a:hover {
 }
 
 .nav-item.bg-pink .nav-link i {
-  background-color: #ffaeec;
+  background-color: #FF33CC;
 }
 
 .nav-item.bg-pink .nav-link span {
@@ -13215,7 +13215,7 @@ a:hover {
 }
 
 .nav-item.bg-pink .nav-link.active span {
-  color: #ffaeec;
+  color: #FF33CC;
 }
 
 .nav-item.bg-pink .dropdown-menu {
@@ -13223,7 +13223,7 @@ a:hover {
 }
 
 .nav-item.bg-pink .dropdown-menu li a:hover {
-  background-color: #ffaeec;
+  background-color: #FF33CC;
   color: #fff;
 }
 
@@ -13238,15 +13238,15 @@ a:hover {
 }
 
 .nav-item.bg-pink .dropdown-menu li .sub-menu {
-  border-left-color: #ea77ad;
+  border-left-color: #FF33CC;
 }
 
 .nav-item.bg-pink .dropdown-menu li .sub-menu:after {
-  border-right-color: #ea77ad;
+  border-right-color: #FF33CC;
 }
 
 .nav-item.bg-pink .dropdown-menu li:first-child {
-  color: #ea77ad;
+  color: #FF33CC;
 }
 
 .navbar-nav .dropdown.bg-warning .dropdown-menu .dropdown-item.active,
@@ -13301,7 +13301,7 @@ a:hover {
 
 .navbar-nav .dropdown.bg-pink .dropdown-menu .dropdown-item.active,
 .navbar-nav .dropdown.bg-pink .dropdown-menu ul li a.active {
-  color: #ea77ad;
+  color: #FF33CC;
 }
 
 .navbar-nav .dropdown.bg-pink .dropdown-menu .dropdown-item.active:hover,
@@ -13330,7 +13330,7 @@ a:hover {
 }
 
 .mega-dropdown.bg-pink .list-unstyled li a.active {
-  color: #ea77ad;
+  color: #FF33CC;
 }
 
 /* Static Navbar*/
@@ -14480,12 +14480,12 @@ a:hover {
 }
 
 .btn-hover-pink:hover {
-  background-color: #ea77ad;
+  background-color: #FF33CC;
   color: #fff;
 }
 
 .btn-hover-pink:focus {
-  background-color: #ea77ad;
+  background-color: #FF33CC;
   color: #fff;
   box-shadow: 0 0.25rem 0 rgba(234, 119, 173, 0.1);
 }
@@ -15020,7 +15020,7 @@ a:hover {
 }
 
 .footer-bg-img .copyright {
-  background-color: #041319;
+  background-color: rgb(255, 255, 255);
 }
 
 /* Footer Background Image */
