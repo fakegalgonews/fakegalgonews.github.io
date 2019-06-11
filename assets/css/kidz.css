@@ -6475,6 +6475,9 @@ button.bg-purple:focus {
 .bg-pink {
   background-color: #FF33CC !important;
 }
+.bg-pink-claro {
+  background-color: #ff88e6 !important;
+}
 
 a.bg-pink:hover, a.bg-pink:focus,
 button.bg-pink:hover,
