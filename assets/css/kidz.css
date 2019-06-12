@@ -4387,7 +4387,7 @@ input[type="button"].btn-block {
   word-wrap: break-word;
   background-color: #ff33cc0d;
   background-clip: border-box;
-  border: 0 solid rgba(255, 51, 204, 0.12);
+  border: 0 solid #ff33cc;
   border-radius: 0.57rem;
 }
 
@@ -4462,7 +4462,7 @@ input[type="button"].btn-block {
   margin-bottom: 0;
   color: inherit;
   background-color: rgba(0, 0, 0, 0.03);
-  border-bottom: 0 solid rgba(0, 0, 0, 0.125);
+  border-bottom: 0 solid #ff33c1;
 }
 
 .card-header:first-child {
@@ -12012,7 +12012,7 @@ a:hover {
 
 /* Navbar Custom */
 .navbar {
-  box-shadow: 0 0.25rem 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0.25rem 0 rgba(255, 51, 204, 0.1);
   padding: 0.32rem 0;
   z-index: 100;
   transition: .4s ease-in-out;
@@ -12062,7 +12062,7 @@ a:hover {
   margin-right: 0.94rem;
   background-color: #ea7066;
   border-radius: 0.25rem;
-  box-shadow: 0 0.25rem 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0.25rem 0 rgba(255, 51, 204, 0.1);
   color: #fff;
 }
 
@@ -13421,13 +13421,13 @@ a:hover {
   border-radius: 0.8125rem;
   width: 45px;
   height: 45px;
-  box-shadow: 0 0.25rem 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0.25rem 0 #ff33c1;
   visibility: hidden;
   opacity: 0;
   transition: opacity, 0.3s ease-in-out;
 }
 
-@media screen and (prefers-reduced-motion: reduce) {
+@media screen {
   .hesperiden.tparrows {
     transition: none;
   }
@@ -13463,7 +13463,9 @@ a:hover {
 
 /* Card */
 .card {
-  box-shadow: 0 4px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 0 #ff33c1;
+    border-bottom-color: #ff33cc;
+    border-right-color: #ff33cc;
   position: relative;
   margin-bottom: 1.56rem;
 }
@@ -13589,7 +13591,7 @@ a:hover {
 
 .accordion .card {
   margin-bottom: 1.875rem;
-  box-shadow: none;
+  box-shadow: #ff33c1;
 }
 
 .accordion .card .card-header {
@@ -13633,7 +13635,7 @@ a:hover {
   border-radius: 0.187rem;
   background-color: #fff;
   color: #666;
-  box-shadow: 0 4px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 0 rgba(255, 51, 204, 0.1);
 }
 
 .accordion .card .card-header h5.icon-bg.collapsed:before {
