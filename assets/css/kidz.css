@@ -11255,7 +11255,7 @@ button.bg-stone:focus {
 }
 
 .text-monospace {
-  font-family: "Titillium Web";
+  font-family: "Noteworthy";
 }
 
 .text-justify {
@@ -11650,7 +11650,7 @@ a:hover {
 
 /* Font Family */
 .font-dosis {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Noteworthy", sans-serif;
 }
 
 .font-inherit {
@@ -11658,7 +11658,7 @@ a:hover {
 }
 
 .font-base {
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Noteworthy", sans-serif;
 }
 
 /* Font Size */
@@ -11892,7 +11892,7 @@ a:hover {
 
 .breadcrumb-transparent .breadcrumb-item + .breadcrumb-item::before {
   color: #fff;
-  font-family: "Titillium Web";
+  font-family: "Noteworthy";
   content: "\276F\00a0";
   padding: 0 5px;
 }
@@ -11925,7 +11925,7 @@ a:hover {
   text-align: center;
   font-weight: 600;
   font-size: 2.5rem;
-  font-family: "Titillium Web", sans-serif;
+  font-family: "Noteworthy", sans-serif;
 }
 
 /* Color Bar */
