@@ -4374,9 +4374,8 @@ input[type="button"].btn-block {
           flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #ff33cc0d;
-  background-clip: border-box;
-  border: 0 solid #ff33cc;
+  background-color: rgb(249, 233, 255);
+
   border-radius: 0.57rem;
 }
 
@@ -4419,6 +4418,7 @@ input[type="button"].btn-block {
 .card-text{
     font-family:"Chalkboard";
     font-size: 1.05rem;
+    color: #5b1348
 
 }
 
@@ -4450,8 +4450,7 @@ input[type="button"].btn-block {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
   color: inherit;
-  background-color: rgba(0, 0, 0, 0.03);
-  border-bottom: 0 solid #ff33c1;
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .card-header:first-child {
@@ -4528,8 +4527,7 @@ input[type="button"].btn-block {
   .card-deck {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-flow: row wrap;
-            flex-flow: row wrap;
+    flex-flow: row wrap;
     margin-right: -15px;
     margin-left: -15px;
   }
@@ -4568,8 +4566,7 @@ input[type="button"].btn-block {
   .card-group {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-flow: row wrap;
-            flex-flow: row wrap;
+       flex-flow: row wrap;
   }
   .card-group > .card {
     -webkit-box-flex: 1;
@@ -6928,24 +6925,20 @@ button.bg-stone:focus {
 
 .flex-grow-0 {
   -webkit-box-flex: 0 !important;
-      -ms-flex-positive: 0 !important;
-          flex-grow: 0 !important;
+     flex-grow: 0 !important;
 }
 
 .flex-grow-1 {
   -webkit-box-flex: 1 !important;
-      -ms-flex-positive: 1 !important;
-          flex-grow: 1 !important;
+     flex-grow: 1 !important;
 }
 
 .flex-shrink-0 {
-  -ms-flex-negative: 0 !important;
-      flex-shrink: 0 !important;
+    flex-shrink: 0 !important;
 }
 
 .flex-shrink-1 {
-  -ms-flex-negative: 1 !important;
-      flex-shrink: 1 !important;
+ flex-shrink: 1 !important;
 }
 
 .justify-content-start {
