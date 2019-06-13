@@ -4376,7 +4376,7 @@ input[type="button"].btn-block {
   word-wrap: break-word;
   background-color: rgb(249, 233, 255);
 
-  border-radius: 0.57rem;
+
 }
 
 .card > hr {
@@ -4425,7 +4425,7 @@ input[type="button"].btn-block {
 .card-title {
   margin-bottom: 0.75rem;
   font-family:"Noteworthy";
-  font-size: 2rem;
+  font-weight: bold;
 }
 
 .card-subtitle {
@@ -5777,6 +5777,7 @@ a.close.disabled {
   display: block;
   margin: 0;
   font-family: "Noteworthy";
+
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
