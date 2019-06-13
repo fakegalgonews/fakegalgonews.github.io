@@ -4417,7 +4417,7 @@ input[type="button"].btn-block {
 }
 
 .card-text{
-    font-family:"Hanken";
+    font-family:"Chalkboard";
     font-size: 1.05rem;
 
 }
@@ -14868,7 +14868,7 @@ a:hover {
 
 .list-item-lg li {
   font-size: 1.13rem;
-  font-family: "Hanken", sans-serif;
+  font-family: "Chalkboard";
   margin-bottom: 1rem;
   color: #666;
 }
