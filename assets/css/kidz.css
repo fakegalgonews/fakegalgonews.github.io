@@ -4448,7 +4448,7 @@ input[type="button"].btn-block {
 .card-header {
     font-family:"Chalkboard SE";
 
-    color: #ff33cc;
+    color: #7e2599;
 }
 
 
@@ -4456,7 +4456,7 @@ input[type="button"].btn-block {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
   color: inherit;
-  background-color: rgba(255, 51, 204, 0);
+  background-color: rgba(255, 230, 251, 0);
 }
 
 .card-header:first-child {
@@ -4731,7 +4731,7 @@ input[type="button"].btn-block {
   padding: 0.75rem 1rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #ff33cc;
+  color: #61247d;
   background-color: #fff;
   border: 1px solid transparent;
 }
